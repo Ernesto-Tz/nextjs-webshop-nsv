@@ -17,3 +17,8 @@ export interface fullProduct {
   description: string;
   price_id: string;
 }
+
+export interface fullCategory {
+  name: string;
+  imageUrl: string;
+}

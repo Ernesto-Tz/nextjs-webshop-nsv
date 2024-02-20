@@ -6,7 +6,12 @@ export default {
     {
       name: 'name',
       type: 'string',
-      title: 'Name of Category'
-    }
-  ]
+      title: 'Name of Category',
+    },
+    {
+      name: 'image',
+      type: 'image',
+      title: 'Category Image',
+    },
+  ],
 }
