@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="mb-4 md:px-8 flex flex-col w-full md:w-1/2 lg:mb-0 lg:w-1/4">
           <Link href="/">
             <h3 className="bg-white py-2 text-xl text-center font-bold text-black">
-              Next<span className="text-primary">Commerce</span>
+              The Running<span className="text-primary">Shop</span>
             </h3>
           </Link>
           <p className="mt-6 text-small">
